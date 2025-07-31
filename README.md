@@ -21,7 +21,7 @@ I love working on real-world datasets and building dashboards, predictive models
 `Tableau` | `Power BI` | `ggplot2`
 
 **Machine Learning & Statistics**  
-`Statsmodels` | `Random Forest` | `Regression` | `Clustering`
+`Statsmodels` | `Regression` | `Random Forest` | `Clustering`
 
 **Data Wrangling & Pipeline**  
 `pandas` | `numpy` | `tidyverse` | `dplyr`
